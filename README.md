@@ -1,4 +1,4 @@
-# DeviceSum
+# Device Summary
 Summary of a PLCnext Device Parameters
 
 # General Data
