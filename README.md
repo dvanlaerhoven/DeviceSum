@@ -12,7 +12,9 @@ Summary of a PLCnext Device Parameters
 | Hardware version| 02 |
 
 # Project info
-Project name 
+Project name
+Location
+Responsible 
 
 # Localbus
 1. AXC F 2152
