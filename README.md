@@ -3,7 +3,8 @@ Summary of a PLCnext Device Parameters
 
 # General Data
 
-| General Data |
+| General Data | |
+|---|---|
 | Type      | AXC F 2152 |
 | Artikelnr  | 2404267 |
 | Serial nr  | 1357402756|
